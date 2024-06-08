@@ -72,7 +72,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akshaya-m-08/Akshaya_AI_ML_Phonepe_Visualizaiton.git
+   
 2. Install the required dependencies:
 
    ```bash
