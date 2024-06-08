@@ -84,10 +84,6 @@ To run the project locally, follow these steps:
    ```bash
    streamlit run phonepe.py
 
-**User Interface**
-
-![User Interface](UI.png)
-
 
 ## Conclusion:
 **The PhonePe Pulse Data Visualization Project**, offers a user-friendly platform for exploring and analyzing PhonePe transaction, insurance, and user demographic data. Through the utilization of Streamlit and MySQL, the project enables interactive visualization of various data aspects, including transaction trends, insurance metrics, and user demographics at national and state levels. With features like the Explore Data and State Data tabs providing detailed insights and the GeoView tab offering a global perspective, the project demonstrates the efficacy of data visualization in deriving meaningful insights.
