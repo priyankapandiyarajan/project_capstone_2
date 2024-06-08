@@ -72,6 +72,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
+   https://github.com/priyankapandiyarajan/project_capstone_2.git
    
 2. Install the required dependencies:
 
